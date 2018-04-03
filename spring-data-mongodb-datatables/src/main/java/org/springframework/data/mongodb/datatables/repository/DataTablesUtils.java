@@ -256,7 +256,7 @@ public class DataTablesUtils {
         }
 
         @Override
-        public int getOffset() {
+        public long getOffset() {
             return offset;
         }
 
